@@ -1,4 +1,4 @@
-**Securing Your Digital Hearth: An Introduction to Home Network Security**
+**1. Securing Your Digital Hearth: An Introduction to Home Network Security**
 
 **Introduction:**
 
