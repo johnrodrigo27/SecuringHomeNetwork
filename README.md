@@ -113,3 +113,52 @@ After outlining the fundamentals of home networking, it's time to turn our atten
 
 Conducting a security audit is a proactive step in defending your home network against cyber threats. It empowers you to take control of your network's security by understanding and mitigating risks. In our next discussion, we'll take what we've learned from our audit and apply practical solutions to strengthen our network's defenses.
 
+**3.1 Securing Your Modem-Router**
+
+1. **Accessing Your Modem-Router:**
+   - Connect to your network and type the router's IP address into a web browser.
+   - Typical router's IP are 192.168.1.1 or 192.168.0.1
+   - Log in with the default username and password (found in the device's manual or label).
+
+2. **Change Default Credentials:**
+   - Navigate to the settings page and create a new, strong password for your router's admin account.
+   - Avoid common words and include a mix of letters, numbers, and symbols.
+   - Avoid anything that is connected to any of your personal or family information
+
+3. **Update Firmware:**
+   - Check for firmware updates in the router's settings and apply any available updates.
+   - Firmware updates can patch security vulnerabilities and improve functionality.
+
+4. **Configure Wi-Fi Security:**
+   - Select the most secure encryption available, like WPA3. If WPA3 is not available, WPA2 will suffice.
+   - Create a strong Wi-Fi password, distinct from the router admin password.
+   - Disable WPS (Wi-Fi Protected Setup), as it can be a security risk.
+
+5. **Disable Remote Management:**
+   - Turn off any settings that allow remote access to your router's admin interface from the internet.
+
+6. **Set Up a Guest Network:**
+   - If you often have visitors who need to use your Wi-Fi, set up a guest network.
+   - This keeps them separate from your main network, protecting your personal devices.
+
+7. **Control Connected Devices:**
+   - Use MAC filtering to whitelist devices allowed on your network, although this is not foolproof and should be used in conjunction with other security measures.
+   - 
+
+8. **Turn Off Unnecessary Services:**
+   - Services like UPnP (Universal Plug and Play) can be convenient but also pose security risks. Disable them unless you have a specific need.
+
+9. **Regular Security Checks:**
+   - Schedule regular audits of your router settings to check for unauthorized changes or updates.
+
+**Conclusion:**
+
+By securing your iiNet modem-router, you've made a significant stride in protecting your home network. Remember, the security of your network is not a one-time setup; it's an ongoing practice. Our next guide will delve into advanced security measures, ensuring you stay ahead in the cybersecurity game.
+
+**Call to Action:**
+
+Have you completed securing your iiNet modem-router? Share your experiences and any challenges you faced. If you have questions or need further assistance, feel free to reach out in the comments section below. Let's secure our networks together.
+
+---
+
+This guide focuses on practical, actionable advice for non-expert users. It assumes a basic level of technical proficiency, such as knowing how to connect to a Wi-Fi network and navigate a web browser. If you're including screenshots or specific instructions, ensure they match the most recent firmware and user interface provided by iiNet for accuracy.
