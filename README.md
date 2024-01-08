@@ -155,10 +155,3 @@ Conducting a security audit is a proactive step in defending your home network a
 
 By securing your iiNet modem-router, you've made a significant stride in protecting your home network. Remember, the security of your network is not a one-time setup; it's an ongoing practice. Our next guide will delve into advanced security measures, ensuring you stay ahead in the cybersecurity game.
 
-**Call to Action:**
-
-Have you completed securing your iiNet modem-router? Share your experiences and any challenges you faced. If you have questions or need further assistance, feel free to reach out in the comments section below. Let's secure our networks together.
-
----
-
-This guide focuses on practical, actionable advice for non-expert users. It assumes a basic level of technical proficiency, such as knowing how to connect to a Wi-Fi network and navigate a web browser. If you're including screenshots or specific instructions, ensure they match the most recent firmware and user interface provided by iiNet for accuracy.
